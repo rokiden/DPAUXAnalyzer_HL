@@ -1,0 +1,13 @@
+{
+  "name": "Display Port AUX HLA",
+  "apiVersion": "1.0.0",
+  "author": "Denis Kazimirov rokiden@github",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "Display Port AUX HLA": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
